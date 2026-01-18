@@ -37,7 +37,7 @@ AI-enhanced development tools for the Solana ecosystem.
 
 Educational resources combining AI and Solana development.
 
-*Coming soon - contributions welcome!*
+- [Solana x402 Templates](https://github.com/solana-foundation/templates/tree/main/community) - Starter templates for x402 payment protocol enabling autonomous agent payments. Includes Next.js, Rust, and Node.js examples.
 
 ## Contributing
 
